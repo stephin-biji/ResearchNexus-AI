@@ -1,0 +1,7 @@
+streamlit
+pandas
+networkx
+plotly
+google-genai
+python-dotenv
+pypdf
